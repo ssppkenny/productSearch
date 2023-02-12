@@ -1,0 +1,17 @@
+#container {
+    width: 300px;
+    margin: auto;
+    font-family: 'Helvetica', 'Arial', sans-serif;
+    color: #444444;
+    font-size: 12;
+    background-color: #FAFAFA;
+}
+
+div.product {
+    display: table-cell;
+    width: 250px;
+}
+
+div.price {
+    display: table-cell;
+}
